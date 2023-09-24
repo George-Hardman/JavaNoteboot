@@ -4,6 +4,8 @@ The abstract factory enables is a generic abstract class that contains the metho
 
 Note that this is returning interfaces rather than concrete implementations.
 
+[The Abstract Factory Pattern Explained and Implemented | Creational Design Patterns | Geekific](https://www.youtube.com/watch?v=QNpwWkdFvgQ)
+
 ## The class Diagram for the Abstract Factory
 
 ```mermaid
